@@ -25,17 +25,17 @@ After clicking the deploy button, you'll need to configure the following environ
 ```bash
 TEAM_TAG=TAG                                    # Your team/clan tag
 MAIN_COLOR=F8SJ34                               # Primary color (hex without #)
-SERVER_IP=btd.play:7777                         # Your SA-MP server IP:Port
+SERVER_IP=cwtg.xyz                              # Your SA-MP server IP:Port
 DISCORD_LINK=https://discord.gg/toxicwarriors   # Your Discord invite link
-SERVER_NAME=Your Server Name                     # Your server name
+SERVER_NAME=Your Server Name                    # Your server name
 ```
 
 #### Database Credentials
 ```bash
 DB_HOST=127.0.0.1      # Database host (use your cloud DB host for production)
-DB_PORT=3307           # Database port (default MySQL: 3306)
+DB_PORT=3306           # Database port (default MySQL: 3306)
 DB_USER=root           # Database username
-DB_PASSWORD=mcp44      # Database password
+DB_PASSWORD=password   # Database password
 DB_NAME=zero           # Database name
 ```
 
