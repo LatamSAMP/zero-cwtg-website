@@ -1,7 +1,8 @@
 <h1 align="center">Zero Website</h1>
 <p align="center"> A ready-to-deploy website designed for the <b>Zero CW/TG</b>.
 </p> <p align="center"> Fully responsive, lightweight, and easily configurable. </p>
-<div align="center"> <img width="1683" height="941" alt="image" src="https://github.com/user-attachments/assets/9add6a75-4fe2-4d26-b910-cc2be779f625" /></div>
+
+<div align="center"><img width="1529" height="931" alt="image" src="https://github.com/user-attachments/assets/0bbb94b7-9c95-4e74-a350-e4702fcf49bd" /></div>
 
 > [!IMPORTANT]  
 > This website requires a [**Zero CWTG SA-MP server**](https://github.com/LatamSAMP/zero-cwtg) running with a **remote MySQL database**.
