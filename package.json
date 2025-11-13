@@ -1,0 +1,30 @@
+{
+  "name": "zero-web-template",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Latam",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.44.7",
+    "mysql2": "^3.15.3",
+    "next": "16.0.1",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "drizzle-kit": "^0.31.6",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.1",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
